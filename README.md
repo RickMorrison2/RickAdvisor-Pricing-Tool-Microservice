@@ -1,4 +1,4 @@
-# RickAdvisor Pricing Tool
+# RickAdvisor Pricing Tool Microservice
 
 > Functioning full-stack clone of TripAdvisor.com's pricing tool, allowing users to select travel dates through a calendar created in ReactJS and CSS3 and view dynamic pricing data from various online booking sites. This component was part of a microservices architecture for a larger app to clone a full TripAdvisor.com web page. A technical stack of ReactJS, Node.js, Express, and MySQL was implemented for this project.
 

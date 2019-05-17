@@ -8,18 +8,18 @@
 
 [Full Application Demo Video](https://youtu.be/yOlJPWOh-iA)
 
+## Table of Contents
+
+1. [Related Projects](#related-projects)
+1. [Technologies Used](#technologies-used)
+1. [Installing Dependencies](#installing-dependencies)
+1. [License](#license)
+
 ## Related Projects
 
   - https://github.com/rickadviser/Pete_Location
   - https://github.com/rickadviser/gabe-reviews-service
   - https://github.com/rickadviser/Jared-About-Service
-
-## Table of Contents
-
-1. [Requirements](#requirements)
-1. [Technologies Used](#technologies-used)
-1. [Installing Dependencies](#installing-dependencies)
-1. [License](#license)
 
 
 ## Technologies Used

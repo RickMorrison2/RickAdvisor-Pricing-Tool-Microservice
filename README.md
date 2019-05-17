@@ -25,7 +25,7 @@
 ## Technologies Used
 
 - ReactJS - the front-end framework used
-- Node.js/Express - used to develop server
+- Node.js / Express - used to develop server
 - MySQL - used to store data for pricing and dates
 - Amazon Web Services (AWS) - used to deploy component for online hosting
 - Moment.js - used for formatting dates
